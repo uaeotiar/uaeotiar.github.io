@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://uaeotiar.github.io/sitemap/sitemap.txt
